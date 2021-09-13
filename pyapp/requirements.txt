@@ -1,0 +1,5 @@
+fastapi>=0.45.0
+uvicorn>=0.15.0
+bcrypt>=3.2.0
+aiofiles>=0.7.0
+Jinja2>=3.0.1
